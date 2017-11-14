@@ -36,7 +36,10 @@ Contents of this repository is licensed under the GNU General Public License, ve
 
 If you wish to use the TM for research purpose, we kindly ask you to cite the following paper:
 
-  Ensuring Irrevocability in Wait-free Transactional Memory, Jan Kończak, Paweł T. Wojciechowski
-  and Rachid Guerraoui, TRANSACT 2016
+  J. Z. Kończak, P. T. Wojciechowski and R. Guerraoui, "Operation-Level Wait-Free Transactional Memory with
+  Support for Irrevocable Operations," IEEE TPDS, vol. 28, no. 12, Dec 2017. doi: 10.1109/TPDS.2017.2734879
+
+  J. Z. Kończak, P. T. Wojciechowski and R. Guerraoui, "Ensuring Irrevocability in Wait-free
+  Transactional Memory", TRANSACT 2016
     
 ```
